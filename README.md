@@ -1,2 +1,2 @@
 Demo: 
-	http://akankshavalecha.github.com/resume
+	http://akankshavalecha.github.io
